@@ -55,28 +55,27 @@ blockquote, q {
 
 /*  styles */
 
-.beta{
-	font-size:1.250em;margin:1.2em 0 1.2em 0;line-height: 29.25px
 
-}
 
 .container{ 
 	width: 51em;
 	margin: 2.5em auto;
 	
 }
+.beta{
+	font-size:1.250em;margin:1.2em 0 1.2em 0;line-height: 1.83em;
+font-family: sans-serif;font-size: 150%;
+	text-align:justify; 
+}
+
 .b {
 	font-size: 1.25em; font-family: sans-serif;
 font-weight: bold; text-align: right; 
 border-collapse: separate; border: 11.25em 0 1.15em 0;
-line-height: 29.25px;
+line-height: 1.83em;
 }
 
-.gutter {
-	 font-family: sans-serif;font-size: 150%;
-	text-align:justify; ;margin:1.2em 0 1.2em 0;
 
-}
 .image-list{}
 
 .image-list .item{
